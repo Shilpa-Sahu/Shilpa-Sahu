@@ -4,18 +4,21 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shilpa-sahu&label=Profile%20views&color=0e75b6&style=flat" alt="shilpa-sahu" /> </p>
 
-<p align="left"> <a href="https://twitter.com/shilpasahu335" target="blank"><img src="https://img.shields.io/twitter/follow/shilpasahu335?logo=twitter&style=for-the-badge" alt="shilpasahu335" /></a> </p>
 
+
+- 👩‍🎓 Pursuing Master Computer of Application (MCA)
+  
 - 🌱 I’m currently learning **MERN, Learing Full Stack Web Development**
 
 - ⚡ Fun fact **Good Sense of humour**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Reach me out:</h3>
 <p align="left">
 <a href="https://twitter.com/shilpasahu335" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shilpasahu335" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shilpa-sahu-s0303" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shilpa-sahu-s0303" height="30" width="40" /></a>
   <a href="https://instagram.com/shilpasahuu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shilpasahuu" height="30" width="40" /></a>
-
+  <a href="https://www.leetcode.com/shilpa03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shilpa03" height="30" width="40" /></a>
+<a href="https://discord.gg/shilpa-sahuu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="shilpa-sahuu" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
