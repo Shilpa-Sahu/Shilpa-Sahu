@@ -10,7 +10,11 @@
   
 - 🌱 I’m currently learning **MERN, Learing Full Stack Web Development**
 
-- ⚡ Fun fact **Good Sense of humour**
+ - 👨‍💻 Know me More: [Portfolio](#)
+ 
+- 🤝 Feel free to reach out to me here: [E-mail](shilpasahu335@gmail.com)
+
+- ⚡ Fun fact **Good Sense of Humour**
 
 <h3 align="left">Reach me out:</h3>
 <p align="left">
