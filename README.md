@@ -12,9 +12,9 @@
 
  - 👨‍💻 Know me More: [Portfolio](#)
  
-- 🤝 Feel free to reach out to me here: [E-mail](shilpasahu335@gmail.com)
+- 🤝 Feel free to reach out to me here: [E-mail](https://mail.google.com/mail/u/0/#imp?compose=new)
 
-- ⚡ Fun fact **Good Sense of Humour**
+- ⚡ Fun fact: **Good Sense of Humour**
 
 <h3 align="left">Reach me out:</h3>
 <p align="left">
